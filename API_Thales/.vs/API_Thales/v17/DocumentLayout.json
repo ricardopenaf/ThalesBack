@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{729B74DA-F5E4-4727-A77B-91776E0C63C3}|EmployeeServiceTests\\EmployeeServiceTests.csproj|f:\\misdatos\\pruebasnet\\prueba_sii_thales\\api_thales\\api_thales\\employeeservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729B74DA-F5E4-4727-A77B-91776E0C63C3}|EmployeeServiceTests\\EmployeeServiceTests.csproj|solutionrelative:employeeservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C9C5A9-412A-4B2E-A660-79299F5CE799}|DataAccess\\DataAccess.csproj|f:\\misdatos\\pruebasnet\\prueba_sii_thales\\api_thales\\api_thales\\dataaccess\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C9C5A9-412A-4B2E-A660-79299F5CE799}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04822EF8-CDC7-4638-B90F-FFD185CCD746}|BusinessLayer\\BusinessLayer.csproj|f:\\misdatos\\pruebasnet\\prueba_sii_thales\\api_thales\\api_thales\\businesslayer\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04822EF8-CDC7-4638-B90F-FFD185CCD746}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5169C8F2-B29B-429D-9C2A-8D0E33D05DA2}|API_Thales\\API_Thales.csproj|f:\\misdatos\\pruebasnet\\prueba_sii_thales\\api_thales\\api_thales\\api_thales\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5169C8F2-B29B-429D-9C2A-8D0E33D05DA2}|API_Thales\\API_Thales.csproj|solutionrelative:api_thales\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04822EF8-CDC7-4638-B90F-FFD185CCD746}|BusinessLayer\\BusinessLayer.csproj|f:\\misdatos\\pruebasnet\\prueba_sii_thales\\api_thales\\api_thales\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04822EF8-CDC7-4638-B90F-FFD185CCD746}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A2CECC-C373-4DC5-AAFD-928C8C79B0D2}|Entities\\Entities.csproj|f:\\misdatos\\pruebasnet\\prueba_sii_thales\\api_thales\\api_thales\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A2CECC-C373-4DC5-AAFD-928C8C79B0D2}|Entities\\Entities.csproj|solutionrelative:entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5169C8F2-B29B-429D-9C2A-8D0E33D05DA2}|API_Thales\\API_Thales.csproj|f:\\misdatos\\pruebasnet\\prueba_sii_thales\\api_thales\\api_thales\\api_thales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5169C8F2-B29B-429D-9C2A-8D0E33D05DA2}|API_Thales\\API_Thales.csproj|solutionrelative:api_thales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\EmployeeServiceTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EmployeeServiceTests\\UnitTest1.cs",
+              "ToolTip": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\EmployeeServiceTests\\UnitTest1.cs",
+              "RelativeToolTip": "EmployeeServiceTests\\UnitTest1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:34:04.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\BusinessLayer\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\EmployeeManager.cs",
+              "ToolTip": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\BusinessLayer\\EmployeeManager.cs",
+              "RelativeToolTip": "BusinessLayer\\EmployeeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:36:42.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T18:39:01.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\API_Thales\\Program.cs",
+              "RelativeDocumentMoniker": "API_Thales\\Program.cs",
+              "ToolTip": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\API_Thales\\Program.cs",
+              "RelativeToolTip": "API_Thales\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:45:15.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\Entities\\Employees.cs",
+              "RelativeDocumentMoniker": "Entities\\Employees.cs",
+              "ToolTip": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\Entities\\Employees.cs",
+              "RelativeToolTip": "Entities\\Employees.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:20:50.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\API_Thales\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "API_Thales\\Controllers\\EmployeesController.cs",
+              "ToolTip": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\API_Thales\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "API_Thales\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:56:29.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\DataAccess\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "DataAccess\\EmployeeService.cs",
+              "ToolTip": "F:\\MisDatos\\PruebasNet\\Prueba_SII_Thales\\API_Thales\\API_Thales\\DataAccess\\EmployeeService.cs",
+              "RelativeToolTip": "DataAccess\\EmployeeService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:18:45.523Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

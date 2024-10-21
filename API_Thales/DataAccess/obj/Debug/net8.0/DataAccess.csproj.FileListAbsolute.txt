@@ -1,0 +1,15 @@
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\bin\Debug\net8.0\DataAccess.dll
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\bin\Debug\net8.0\Entities.dll
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\bin\Debug\net8.0\Entities.pdb
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\obj\Debug\net8.0\DataAccess.dll
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+F:\MisDatos\PruebasNet\Prueba_SII_Thales\API_Thales\API_Thales\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
